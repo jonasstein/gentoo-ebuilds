@@ -248,7 +248,7 @@ pkg_postinst() {
 	elog "It is recommended to change your blender temp directory"
 	elog "from /tmp to /home/user/tmp or another tmp file under your"
 	elog "home directory. This can be done by starting blender, then"
-	elog "dragging the main menu down do display all paths."
+	elog "dragging the main menu down to display all paths."
 	elog
 	ewarn
 	ewarn "This ebuild does not unbundle the massive amount of 3rd party"
